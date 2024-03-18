@@ -1,5 +1,7 @@
 <h1 align="center" style="color:White">SUPERMARKET SALES</h1>
 
+![ViewCount](https://views.whatilearened.today/views/github/vnaumq/supermarket_sales.svg?cache=remove)
+
 ------
 <h3 align="center" style="color:White">INTRODUCTION </h3>
 
